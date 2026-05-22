@@ -87,4 +87,5 @@ AI-PHISHING-CHECK-MASTER/
 
 
 ## Author
+Nidhish Shinde
 Pratik Singh
